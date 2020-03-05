@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoWiremockApplication {
+public class DemoWireMockApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoWiremockApplication.class, args);
+		SpringApplication.run(DemoWireMockApplication.class, args);
 	}
 
 }
